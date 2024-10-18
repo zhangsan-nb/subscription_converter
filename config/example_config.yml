@@ -1,0 +1,7 @@
+subscriptions:
+  - url: "https://example.com/clash.yaml"
+    type: "clash"
+  - url: "https://example.com/v2ray.txt"
+    type: "v2ray"
+output_format: "clash"
+output_file: "output.yaml"
